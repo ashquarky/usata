@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sata2")(type "KiCad")(uri "${KIPRJMOD}/2022-08-04_04-39-13/2022-08-04_04-39-13.kicad_sym")(options "")(descr ""))
+  (lib (name "FPC")(type "KiCad")(uri "${KIPRJMOD}/FH28K-28S-0.5SH/FH28K-28S-0_5SH.kicad_sym")(options "")(descr ""))
+)
