@@ -16,7 +16,7 @@ engineer, the board might not be capable of carrying full power - I would stick 
 rather than full-sized spinning disks. If you know how to check the current capacity of the board, please
 let me know if it's up to scratch!
 
-[pwdis]: https://en.wikipedia.org/wiki/SATA#Power_connectors
+[pwdis]: https://en.wikipedia.org/wiki/SATA#SATA_power_connectors
 
 ## Manufacturing
 
